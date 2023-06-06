@@ -1,9 +1,23 @@
-i = int
-print(i)
+# Datatypes
+# Python is object-oriented programming
+# Python is scripting language / functional programming
 
-s1 = "venkatesh"
-print(s1.upper)
+# Types of Translators
+# 1.Compiler : it converts the source code to byte code
+# It reads all the code at a time
+# Eg: Java (.class) --> Interpreter
 
-l1 = [10,20,30,40]
+# 2.Interpreter
+# reads the code line by line for execution
 
-print(l1[0:4])
+# Data types
+# What is variable
+# a = 10, a is variable/object = is operator 10 is value
+# empId = 3567
+
+# class
+# class is blueprint or a template
+# class conatins properties, functions, constructors
+
+# object:
+# it is an instance of a class
